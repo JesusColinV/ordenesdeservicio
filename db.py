@@ -1,0 +1,2 @@
+equipment = {'ID','Equipo','Serie','Preventivo','Proximo','Funcionamiento','Antiguedad','Observaciones'}
+features = {'Serie','Marca','Modelo','Ubicación','Nombre Ubicación','Servicio','Nombre Servicio','Contrato','Numero','Tipo','Provedor','Inicio','Fin','Adquisición','Costo','Costo de mantenimiento','Puesta en marcha','Instalación'}
